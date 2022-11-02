@@ -11,7 +11,7 @@ LUEGO DE ESTAR REGISTRADO EN NETLIFY
 
 ESCRIBIMOS LOS SIGUIENTE COMANDO EN LA CONSOLA:
 
-1. '''npm i -g netlify-cli '''
+1. ´´´npm i -g netlify-cli ´´´
 2. (este comando nos servira para instalar el cli de netlify para inciarlo en el equipo )  
 
 2. Luego de que termine se escribe el comando (netlify status) este nos servira para ver el estado de la sesion y ver que cuenta esta conectada con netlify
