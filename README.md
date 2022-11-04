@@ -12,7 +12,7 @@ https://grupoyoderafutco.netlify.app
 
 LOS PASOS PARA LA CREACION DE CUENTA FUERON LOS SIGUIENTES:
 
-1. SE INGRESO A LA PAGINA WEB DE NETLIFY WWWW.NETLIFY.COM
+1. SE INGRESO A LA PAGINA WEB DE NETLIFY [WWWW.NETLIFY.COM](https://www.netlify.com/)
 
 ![image](https://user-images.githubusercontent.com/52515863/199571090-7339dff7-fbcc-4f90-8894-ff59e65a1278.png)
 
